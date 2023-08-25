@@ -1,0 +1,36 @@
+body{
+    background-color: lightsalmon;
+}
+
+.primeiraparte{
+    background-color: bisque;
+}
+.foto{
+    width:120px;
+}
+.turminha.jpeg{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.titulo-principal {
+    text-align: center;
+}
+.primeiraparte {
+    text-align: center;
+}
+.quemsao {
+    text-align: center;
+}
+.primeiraparte {
+    font-family: 'Playfair Display', serif;
+}
+
+.todososestudantes{
+        display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+
+}
+.fototurma{
+    width: 505px;
+}
